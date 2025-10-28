@@ -1,6 +1,6 @@
 # 🎯 Descripción
 
-Diseño de una base de datos para una tienda de libros que gestione el inventario, ventas y clientes. La base de datos debe permitir el registro y gestión de libros, autores, clientes, pedidos y transacciones de compra
+Diseño de una base de datos para una tienda de libros que gestione el inventario, ventas y clientes. La base de datos  permite el registro y gestión de libros, autores, clientes, pedidos y transacciones de compra
 
 
 
@@ -15,9 +15,9 @@ Diseño de una base de datos para una tienda de libros que gestione el inventari
 
 ```
 Proyecto_HotelJS/
-├── examen.sql                # Página principal
-├── modelo conceptual                  # Estilos principales
-├── modelo logico                    # JavaScript principal
+├── examen.sql               
+├── modelo conceptual                  
+├── modelo logico                    
 ├── README.md 
 ```
 
