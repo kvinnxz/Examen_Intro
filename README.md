@@ -1,11 +1,6 @@
-# 
+# 🎯 Descripción
 
-Sistema de gestión hotelera completo desarrollado con JavaScript vanilla, HTML5 y CSS3. Proyecto full-stack que incluye gestión de reservas, habitaciones, usuarios y panel administrativo.
-
-
-
-## 🎯 Descripción
-
+Diseño de una base de datos para una tienda de libros que gestione el inventario, ventas y clientes. La base de datos debe permitir el registro y gestión de libros, autores, clientes, pedidos y transacciones de compra
 
 
 
